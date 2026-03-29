@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**soumya25bsa10030/soumya25bsa10030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Student Details
 
-Here are some ideas to get you started:
+Name: SOUMYA TANDON
+Registration Number: 25BSA10030
+Branch : B.Tech CSE (CLOUD COMPUTING AND AUTOMATION)
+Year: 2025-2029
+Course Code: CSE0001
+Course Title: Digital Literacy
+University: VIT Bhopal University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I hope to learn 📚
+
