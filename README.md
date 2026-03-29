@@ -17,4 +17,4 @@ Course Title: Digital Literacy
 University: VIT Bhopal University
 
 ## What I hope to learn 📚
-As an aspiring computer engineer, I use GitHub to learn and grow by exploring real-world projects and collaborating with developers. I aim to strengthen my skills in programming, problem-solving, and software development while gaining hands-on experience with tools, version control, and open-source contributions. Through continuous learning and experimentation, I hope to build impactful projects and develop a strong foundation for my future career in technology.
+Using GitHub as a resource for learning, I hope to explore many different projects and work alongside other developers to grow my skills as an aspiring computer engineer. With the intention of strengthening my programming, problem-solving, and software development skills,so as to increase my chances of employment in near future.
